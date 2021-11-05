@@ -1,4 +1,4 @@
-package com.devsuperior.dsvendas.entity;
+package com.devsuperior.dsvendas.domain.entity;
 
 import java.time.LocalDate;
 
